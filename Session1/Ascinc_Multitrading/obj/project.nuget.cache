@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rkXRIK7VBd54rfxeFQ/9uVYM/NOPm5Kzz2dHmGK7f/Fl/C7+fudfKAlN6EQ0JOKepTHc5WIM6jUp3LArSWeaWg==",
+  "success": true,
+  "projectFilePath": "E:\\Android\\Ali\\sorce code ali\\ASP.NET.Core.Angular\\File Git\\Session1\\Ascinc_Multitrading\\Ascinc_Multitrading.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a-soleymani\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\a-soleymani\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\a-soleymani\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\a-soleymani\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\a-soleymani\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\a-soleymani\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
