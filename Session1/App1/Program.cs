@@ -1,43 +1,59 @@
+
+//?To Level Statement
+
+//?Factory Method
 var builder = WebApplication.CreateBuilder(args);
-
-// Add services to the container.
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-
+//?Builder
 var app = builder.Build();
+//? Root Path
+//? Strategy(Product ,Profile,Report,...)
+//app.MapGet("/", () => "Hello World!");
 
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+//*Handler Types 
 
-app.UseHttpsRedirection();
+//! Lambda Expression 
+//var handler = () => "Sample Text";
+//app.MapGet("/", handler);
 
-var summaries = new[]
-{
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-};
+//! Local/Inline Function 
+//string LocalFunc() => "Local Data";
+//app.MapGet("/", LocalFunc);
 
-app.MapGet("/weatherforecast", () =>
-{
-    var forecast =  Enumerable.Range(1, 5).Select(index =>
-        new WeatherForecast
-        (
-            DateTime.Now.AddDays(index),
-            Random.Shared.Next(-20, 55),
-            summaries[Random.Shared.Next(summaries.Length)]
-        ))
-        .ToArray();
-    return forecast;
-})
-.WithName("GetWeatherForecast");
+//! Instance Method
+//var hello = new HelloHandler();
+//app.MapGet("/", hello.Hello);
+
+//!Custom Route
+//? Product Detail, Product list
+// app.MapGet("/product/{id}", (int id) => $"Product Detail {id}");
+//app.MapGet("/product/{id}", (int id) =>new Product { Id = id, Name = $"Product {id}", Price = id * 100 });
+
+
+var list = new List<Product>();
+list.Add(new Product { Id = 1, Name = $"Product {1}", Price = 1 * 100 });
+list.Add(new Product { Id = 2, Name = $"Phone {1}", Price = 2 * 100 });
+list.Add(new Product { Id = 3, Name = $"Laptop {1}", Price = 3 * 100 });
+app.MapGet("/product", () => list);
+//? LINQ (C# Query Data)
+app.MapGet("/product/{id}", (int id) => list.FirstOrDefault(p => p.Id == id));
 
 app.Run();
 
-record WeatherForecast(DateTime Date, int TemperatureC, string? Summary)
+
+class HelloHandler
 {
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
+    public string Hello()
+    {
+        //* Complex Logic ...
+        return "Instance Method";
+    }
 }
+
+class Product
+{
+    public int Id { get; set; }
+    public string Name { get; set; }
+    public int Price { get; set; }
+
+}
+
