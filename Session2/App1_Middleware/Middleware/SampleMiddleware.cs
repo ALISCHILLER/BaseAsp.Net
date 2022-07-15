@@ -1,3 +1,5 @@
+
+using  App1_Middleware.Model;
 namespace App1_Middleware.Middleware
 {
 
@@ -31,8 +33,9 @@ namespace App1_Middleware.Middleware
           var product =new Product 
           {
             Id =1,
-            nameof ="Sample product"
+            Name ="Sample product"
           };
+          await context.Response.WriteAsJsonAsync(product);
         }
     }
 }
