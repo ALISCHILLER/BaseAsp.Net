@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "i3zRcT2yLq7zpkbcnEb67F8d8LrQQIfdvX9CuCGIXuU=",
+  "Source": "App1_Middleware",
+  "BasePath": "_content/App1_Middleware",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
