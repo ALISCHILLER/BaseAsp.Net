@@ -5,6 +5,11 @@ var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
 //? Middleware Registration
-app.UseMiddleware<SampleMiddleware>();
+//! Middleware Registration
+// app.UseMiddleware<SampleMiddleware>();
+app.UseMiddleware<ResponseEditingMiddleware>();
+app.UseMiddleware<RequestEditingMiddleware>();
+app.UseMiddleware<ShortCircuitMiddleware>();
+app.UseMiddleware<ContentGenerationMiddleware>();
 
 app.Run();

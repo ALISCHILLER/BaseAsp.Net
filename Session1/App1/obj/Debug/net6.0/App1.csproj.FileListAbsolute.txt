@@ -25,3 +25,30 @@ E:\Android\Ali\sorce code ali\ASP.NET.Core.Angular\File Git\Session1\App1\obj\De
 E:\Android\Ali\sorce code ali\ASP.NET.Core.Angular\File Git\Session1\App1\obj\Debug\net6.0\App1.pdb
 E:\Android\Ali\sorce code ali\ASP.NET.Core.Angular\File Git\Session1\App1\obj\Debug\net6.0\App1.genruntimeconfig.cache
 E:\Android\Ali\sorce code ali\ASP.NET.Core.Angular\File Git\Session1\App1\obj\Debug\net6.0\ref\App1.dll
+F:\Amozesh2021\Asp.net\BaseAsp.Net\Session1\App1\bin\Debug\net6.0\appsettings.Development.json
+F:\Amozesh2021\Asp.net\BaseAsp.Net\Session1\App1\bin\Debug\net6.0\appsettings.json
+F:\Amozesh2021\Asp.net\BaseAsp.Net\Session1\App1\bin\Debug\net6.0\App1.exe
+F:\Amozesh2021\Asp.net\BaseAsp.Net\Session1\App1\bin\Debug\net6.0\App1.deps.json
+F:\Amozesh2021\Asp.net\BaseAsp.Net\Session1\App1\bin\Debug\net6.0\App1.runtimeconfig.json
+F:\Amozesh2021\Asp.net\BaseAsp.Net\Session1\App1\bin\Debug\net6.0\App1.dll
+F:\Amozesh2021\Asp.net\BaseAsp.Net\Session1\App1\bin\Debug\net6.0\App1.pdb
+F:\Amozesh2021\Asp.net\BaseAsp.Net\Session1\App1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Amozesh2021\Asp.net\BaseAsp.Net\Session1\App1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Amozesh2021\Asp.net\BaseAsp.Net\Session1\App1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Amozesh2021\Asp.net\BaseAsp.Net\Session1\App1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Amozesh2021\Asp.net\BaseAsp.Net\Session1\App1\obj\Debug\net6.0\App1.csproj.AssemblyReference.cache
+F:\Amozesh2021\Asp.net\BaseAsp.Net\Session1\App1\obj\Debug\net6.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Amozesh2021\Asp.net\BaseAsp.Net\Session1\App1\obj\Debug\net6.0\App1.AssemblyInfoInputs.cache
+F:\Amozesh2021\Asp.net\BaseAsp.Net\Session1\App1\obj\Debug\net6.0\App1.AssemblyInfo.cs
+F:\Amozesh2021\Asp.net\BaseAsp.Net\Session1\App1\obj\Debug\net6.0\App1.csproj.CoreCompileInputs.cache
+F:\Amozesh2021\Asp.net\BaseAsp.Net\Session1\App1\obj\Debug\net6.0\App1.MvcApplicationPartsAssemblyInfo.cs
+F:\Amozesh2021\Asp.net\BaseAsp.Net\Session1\App1\obj\Debug\net6.0\App1.MvcApplicationPartsAssemblyInfo.cache
+F:\Amozesh2021\Asp.net\BaseAsp.Net\Session1\App1\obj\Debug\net6.0\staticwebassets.build.json
+F:\Amozesh2021\Asp.net\BaseAsp.Net\Session1\App1\obj\Debug\net6.0\staticwebassets.development.json
+F:\Amozesh2021\Asp.net\BaseAsp.Net\Session1\App1\obj\Debug\net6.0\scopedcss\bundle\App1.styles.css
+F:\Amozesh2021\Asp.net\BaseAsp.Net\Session1\App1\obj\Debug\net6.0\App1.csproj.CopyComplete
+F:\Amozesh2021\Asp.net\BaseAsp.Net\Session1\App1\obj\Debug\net6.0\App1.dll
+F:\Amozesh2021\Asp.net\BaseAsp.Net\Session1\App1\obj\Debug\net6.0\refint\App1.dll
+F:\Amozesh2021\Asp.net\BaseAsp.Net\Session1\App1\obj\Debug\net6.0\App1.pdb
+F:\Amozesh2021\Asp.net\BaseAsp.Net\Session1\App1\obj\Debug\net6.0\App1.genruntimeconfig.cache
+F:\Amozesh2021\Asp.net\BaseAsp.Net\Session1\App1\obj\Debug\net6.0\ref\App1.dll

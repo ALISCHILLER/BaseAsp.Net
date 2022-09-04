@@ -208,26 +208,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\a-soleymani\\.nuget\\packages\\": {}
+    "C:\\Users\\ALI\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Android\\Ali\\sorce code ali\\ASP.NET.Core.Angular\\File Git\\Session1\\App1\\App1.csproj",
+      "projectUniqueName": "F:\\Amozesh2021\\Asp.net\\BaseAsp.Net\\Session1\\App1\\App1.csproj",
       "projectName": "App1",
-      "projectPath": "E:\\Android\\Ali\\sorce code ali\\ASP.NET.Core.Angular\\File Git\\Session1\\App1\\App1.csproj",
-      "packagesPath": "C:\\Users\\a-soleymani\\.nuget\\packages\\",
-      "outputPath": "E:\\Android\\Ali\\sorce code ali\\ASP.NET.Core.Angular\\File Git\\Session1\\App1\\obj\\",
+      "projectPath": "F:\\Amozesh2021\\Asp.net\\BaseAsp.Net\\Session1\\App1\\App1.csproj",
+      "packagesPath": "C:\\Users\\ALI\\.nuget\\packages\\",
+      "outputPath": "F:\\Amozesh2021\\Asp.net\\BaseAsp.Net\\Session1\\App1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\a-soleymani\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\ALI\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -269,7 +271,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "9mR7R5q69CP/mVOwOYLcZ2uwnLCoPV32EXo6GQbsd+Ay4UITIJb9Wm8En/2x/ZT3koV2dQw4wAfmYxxdstM2Zg==",
+  "dgSpecHash": "Ph9yFF+slEdjsIXVEubdAE/d8UJLwzqjoQjwLBYQD7MVEsB7P1wIbGvbyYEaUnPeyrlS5Oh8N/BAXjfOS2j/sw==",
   "success": true,
-  "projectFilePath": "E:\\Android\\Ali\\sorce code ali\\ASP.NET.Core.Angular\\File Git\\Session1\\App1\\App1.csproj",
+  "projectFilePath": "F:\\Amozesh2021\\Asp.net\\BaseAsp.Net\\Session1\\App1\\App1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\a-soleymani\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\a-soleymani\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\a-soleymani\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\a-soleymani\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\a-soleymani\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\a-soleymani\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "C:\\Users\\ALI\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ALI\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ALI\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ALI\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ALI\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ALI\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
   ],
   "logs": []
 }
